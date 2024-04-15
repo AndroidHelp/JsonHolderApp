@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JsonHolderApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_details">Post Details: %1$d</string>
+</resources>
